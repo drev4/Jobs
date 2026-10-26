@@ -47,8 +47,8 @@ Detalles que marcan la diferencia:
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/<este-repo>.git candidaturas
-cd candidaturas
+git clone https://github.com/drev4/Jobs.git
+cd Jobs
 mkdir data
 # Copia tu CV actual (PDF, DOCX o texto) a data/
 claude
