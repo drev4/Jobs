@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Read(./profile/**)",
+      "Read(./profile.example/**)",
+      "Read(./ofertas/**)",
+      "Read(./research/**)",
+      "Read(./templates/**)",
+      "Read(./salidas/**)",
+      "Read(./data/**)",
+      "Edit(./ofertas/**)",
+      "Edit(./salidas/**)",
+      "Edit(./research/**)"
+    ]
+  }
+}

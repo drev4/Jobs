@@ -1,0 +1,17 @@
+# Datos personales: NUNCA al repo público
+profile/
+data/
+ofertas/
+salidas/
+research/
+
+# Configuración local de Claude Code
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
